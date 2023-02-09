@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418853049418",
+    "project_id": "airplane-c40ed",
+    "storage_bucket": "airplane-c40ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418853049418:android:546b104e7dbfa1099282b3",
+        "android_client_info": {
+          "package_name": "com.dani.bwa_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418853049418-jg4ie6q6kh4fbg17tf75282r5211sgcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuMX-WNW6K0ocrcyN7nYaTSTzAnaoP9xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418853049418-jg4ie6q6kh4fbg17tf75282r5211sgcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
